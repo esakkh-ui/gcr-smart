@@ -1,0 +1,6 @@
+{
+  "summary":  "Architecture shift from Firebase to VPS-hosted API and OneSignal notifications. This plan covers removing Firebase dependencies, implementing JWT authentication, RESTful data fetching from api.gcr.id, and integrating OneSignal for push notifications.",
+  "updatedAt":  "2026-10-31T08:00:22.315950127Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
